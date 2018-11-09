@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<journals>
+	<journal name="Journal A" score="5.6" review="true" />
+	<journal name="Journal B" score="3.6" review="false"/>
+	<journal name="Journal C" score="5.2" review="false"/>
+	<journal name="Journal D" score="1.6" review="false"/>
+</journals>
+
+

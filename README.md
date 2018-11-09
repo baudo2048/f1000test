@@ -1,2 +1,6 @@
-# f1000test
-Test
+# Test
+
+
+```shell
+$ mvn clean test
+```
